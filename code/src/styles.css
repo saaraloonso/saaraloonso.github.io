@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url("/assets/img/fondoNegro.jpg") !important;
+    background-position: center center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
